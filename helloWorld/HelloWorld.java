@@ -1,6 +1,6 @@
 package helloWorld;
 
-public class HelloWorldType1 {
+public class HelloWorld {
 	public static void main(String[] args) {
 		log("hello world !");
 	}
